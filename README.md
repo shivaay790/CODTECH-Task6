@@ -1,3 +1,10 @@
+Name: SHIVAAY DHONDIYAL
+Company: CODTECH IT SOLUTIONS PVT.LTD
+ID: CT08DS8845
+Domain: ARTIFICIAL INTELLIGENCE
+Duration: OCTOBER 5th, 2024 to NOVEMBER 5th, 2024
+Mentor
+
 # CartPole Reinforcement Learning Project
 
 ## Table of Contents
